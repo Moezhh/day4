@@ -8,12 +8,12 @@ Creation bettremotherfuckingwebsite
  Description : 
   - basique code HTML avec CSS 
   - outil Sublime text 
- Difficulté : moyen
+  - Difficulté : moyen
  
  Ajouter un pupup js
  Description : 
   - simple code HTML, CSS et javascript
   - outil Sublime text 
- Difficulté : moyen
+  - Difficulté : moyen
  
- link : https://moezhh.github.io/git-thp/
+ link : https://moezhh.github.io/day4/
