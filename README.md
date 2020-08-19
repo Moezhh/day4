@@ -16,4 +16,4 @@ Creation bettremotherfuckingwebsite
   - outil Sublime text 
   - Difficulté : moyen
  
- link : https://moezhh.github.io/day4/
+ Lancer le test browser : firefox link : https://moezhh.github.io/day4/
